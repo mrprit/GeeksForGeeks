@@ -26,7 +26,7 @@ public class ClosestZeroSum{
 		
 		System.out.print(ar.get(0)+" "+ar.get(1));
 		
-	}
+	} 
 	
 	public static ArrayList<Integer> getClosestZeroSumEle(int a[]){
 		
