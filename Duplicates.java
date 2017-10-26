@@ -25,7 +25,7 @@ public class Duplicates
 			arr[i]=Integer.parseInt(str[i]);
 		
 		}
-		
+		 
 		
 		printDuplicates(arr,arr.length);
 		
