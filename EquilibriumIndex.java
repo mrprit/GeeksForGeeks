@@ -39,9 +39,9 @@ public class EquilibriumIndex{
 		for(int i=0;i<a.length;i++){
 			
 			sum=sum-a[i];
-			if(lsum==sum)
+			if(lsum==sum){
 				System.out.print(i+" ");
-			
+			}
 			lsum=lsum+a[i];
 		}
 	}
