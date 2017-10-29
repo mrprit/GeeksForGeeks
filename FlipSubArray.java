@@ -20,9 +20,9 @@ public class FlipSubArray{
 			arr[i]=Integer.parseInt(str[i]);
 		
 		}
-		
+		{
 		getFlipSubArray(arr);
-		
+		}
 	    
 		
 	}
