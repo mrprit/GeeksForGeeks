@@ -22,8 +22,8 @@ public class FindOddOccuringElement{
 		
 		int oddElement = findOddElement(arr);
 		
-		System.out.println(oddElement);
-		
+		{System.out.println(oddElement);
+		}
 	}
 
 	public static int findOddElement(int a[]){
