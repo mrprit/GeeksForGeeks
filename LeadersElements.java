@@ -22,8 +22,9 @@ public class LeadersElements{
 		
 		ArrayList<Integer> ar = maxSumWithNoAdjacent(arr);
 		
-		for(int j=ar.size()-1;j>=0;j--)
+		for(int j=ar.size()-1;j>=0;j--){
 			System.out.print(ar.get(j)+" ");
+		}
 		
 	}
 	
